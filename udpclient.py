@@ -1,8 +1,8 @@
 import socket
 
-UDP_IP = "10.20.161.249"
+UDP_IP = "127.0.0.1"
 UDP_PORT = 5005
-PESAN = "woi anjeng babi bangsat , di belakng banyak tuh ccewe santik"
+PESAN = "Hai nabila"
 
 print("target IP:", UDP_IP)
 print("target port:", UDP_PORT)
