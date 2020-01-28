@@ -9,7 +9,7 @@ except socket.error as err:
 port = 80
 
 try:
-    host_ip =
+    host_ip = "127.0.0.1"
     socket.gethostbyname(igraciastelkomuniversity.ac.id)
 except socket.gaierror:
     print("there was an error resolving the host")
